@@ -1,6 +1,6 @@
 {
   "recommendations": [
-    "redhat.java,
+    "redhat.java",
     "redhat.mta-vscode-extension",
     "redhat.fabric8-analytics" 
   ]
